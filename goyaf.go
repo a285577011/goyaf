@@ -3,7 +3,7 @@ package goyaf
 import (
 	"flag"
 	"fmt"
-	"git.oschina.net/pbaapp/goyaf/lib"
+	"goyaf/lib"
 	"log"
 	"net"
 	"net/http"
